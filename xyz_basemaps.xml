@@ -1,0 +1,26 @@
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+    <xyztiles zmin="1" authcfg="" url="http://ecn.t3.tiles.virtualearth.net/tiles/a%7Bq%7D.jpeg?g=1" zmax="19" referer="" password="" name="Bing Virtual Earth" username=""/>
+    <xyztiles zmin="0" authcfg="" url="http://basemaps.cartocdn.com/dark_all/%7Bz%7D/%7Bx%7D/%7By%7D.png" zmax="20" referer="" password="" name="Cartodb Dark" username=""/>
+    <xyztiles zmin="0" authcfg="" url="http://basemaps.cartocdn.com/light_all/%7Bz%7D/%7Bx%7D/%7By%7D.png" zmax="20" referer="" password="" name="Cartodb Light" username=""/>
+    <xyztiles zmin="0" authcfg="" url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Terrain_Base/MapServer/tile/%7Bz%7D/%7By%7D/%7Bx%7D" zmax="19" referer="" password="" name="ESRI Terrain" username=""/>
+    <xyztiles zmin="0" authcfg="" url="http://services.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/%7Bz%7D/%7By%7D/%7Bx%7D" zmax="19" referer="" password="" name="ESRI Topo World" username=""/>
+    <xyztiles zmin="0" authcfg="" url="http://services.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/%7Bz%7D/%7By%7D/%7Bx%7D" zmax="19" referer="" password="" name="ESRI World Dark Gray" username=""/>
+    <xyztiles zmin="0" authcfg="" url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/%7Bz%7D/%7By%7D/%7Bx%7D" zmax="19" referer="" password="" name="ESRI World Imagery" username=""/>
+    <xyztiles zmin="0" authcfg="" url="http://services.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/%7Bz%7D/%7By%7D/%7Bx%7D" zmax="19" referer="" password="" name="ESRI World Light Gray" username=""/>
+    <xyztiles zmin="0" authcfg="" url="https://services.arcgisonline.com/ArcGIS/rest/services/Ocean/World_Ocean_Base/MapServer/tile/%7Bz%7D/%7By%7D/%7Bx%7D" zmax="19" referer="" password="" name="ESRI World Ocean" username=""/>
+    <xyztiles zmin="0" authcfg="" url="http://realearth.ssec.wisc.edu/tiles/globalir/{z}/{x}/{y}.png" zmax="19" referer="" password="" name="Global Infrared" username=""/>
+    <xyztiles zmin="0" authcfg="" url="http://realearth.ssec.wisc.edu/tiles/NightLightsColored/{z}/{x}/{y}.png" zmax="19" referer="" password="" name="Global Night Light" username=""/>
+    <xyztiles zmin="0" authcfg="" url="https://mt1.google.com/vt/lyrs=m%26x=%7Bx%7D%26y=%7By%7D%26z=%7Bz%7D" zmax="19" referer="" password="" name="Google Map" username=""/>
+    <xyztiles zmin="0" authcfg="" url="https://mt1.google.com/vt/lyrs=s%26x=%7Bx%7D%26y=%7By%7D%26z=%7Bz%7D" zmax="19" referer="" password="" name="Google Satellite" username=""/>
+    <xyztiles zmin="0" authcfg="" url="https://mt1.google.com/vt/lyrs=y%26x=%7Bx%7D%26y=%7By%7D%26z=%7Bz%7D" zmax="19" referer="" password="" name="Google Satellite Hybrid" username=""/>
+    <xyztiles zmin="0" authcfg="" url="https://mt1.google.com/vt/lyrs=t%26x=%7Bx%7D%26y=%7By%7D%26z=%7Bz%7D" zmax="19" referer="" password="" name="Google Terrain" username=""/>
+    <xyztiles zmin="0" authcfg="" url="https://mt1.google.com/vt/lyrs=p%26x=%7Bx%7D%26y=%7By%7D%26z=%7Bz%7D" zmax="19" referer="" password="" name="Google Terrain Hybrid" username=""/>
+    <xyztiles zmin="1" authcfg="" url="http://realearth.ssec.wisc.edu/tiles/VIIRS-MASK-54000x27000/{z}/{x}/{y}.png" zmax="19" referer="" password="" name="NASA Night Black Marble" username=""/>
+    <xyztiles zmin="0" authcfg="" url="http://a.tile.openstreetmap.org/{z}/{x}/{y}.png" zmax="19" referer="" password="" name="OpenStreetMap" username=""/>
+    <xyztiles zmin="0" authcfg="" url="http://tile.openstreetmap.fr/hot/%7Bz%7D/%7Bx%7D/%7By%7D.png" zmax="19" referer="" password="" name="OpenStreetMap Hot" username=""/>
+    <xyztiles zmin="0" authcfg="" url="http://tiles.wmflabs.org/bw-mapnik/%7Bz%7D/%7Bx%7D/%7By%7D.png" zmax="19" referer="" password="" name="OpenStreetMap Monochrome" username=""/>
+    <xyztiles zmin="0" authcfg="" url="http://tile.stamen.com/terrain/%7Bz%7D/%7Bx%7D/%7By%7D.png" zmax="20" referer="" password="" name="Stamen Terrain" username=""/>
+    <xyztiles zmin="0" authcfg="" url="http://tile.stamen.com/toner/%7Bz%7D/%7Bx%7D/%7By%7D.png" zmax="20" referer="" password="" name="Stamen Toner" username=""/>
+    <xyztiles zmin="0" authcfg="" url="http://tile.stamen.com/toner-lite/%7Bz%7D/%7Bx%7D/%7By%7D.png" zmax="20" referer="" password="" name="Stamen Toner Lite" username=""/>
+</qgsXYZTilesConnections>
